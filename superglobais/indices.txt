@@ -1,0 +1,7 @@
+01 = $GLOBALS	$_SERVER		aula 32
+02 = $_POST						aula 33
+03 = $_GET						aula 34
+04 = FILTERS-INPUT				aula 35
+05 = FILTER-VAR					aula 36
+06 = $_FILES(UPLOAD)			aula 37
+07 = $_FILES(UPLOAD MULTIPLO)	aula 38
